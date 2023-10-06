@@ -1,0 +1,19 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "produto": "Computador",
+            "valor": "3000"
+        },
+        {
+            "id": 2,
+            "produto": "Mouse",
+            "valor": "30"
+        },
+        {
+            "id": 3,
+            "produto": "Teclado",
+            "valor": "50"
+        }
+    ]
+}
